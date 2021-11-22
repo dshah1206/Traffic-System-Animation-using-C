@@ -20,7 +20,7 @@ It uses the coordinate (pixel) system and the boundary fill algorithm presented 
 4) Compile the code (Alt+F9)
 5) Run the code (Ctrl+F9)
 
-## Check the Traffic Animation PDF for the screenshot of the Output Traffic: 
+## Check the Traffic Animation PDF for the screenshot of the Output: 
 https://github.com/dshah1206/Traffic-System-Animation-using-C/blob/72aa8538982a94984335016e96102b84711ee987/Traffic%20System%20Animation%20.pdf.
 
 
